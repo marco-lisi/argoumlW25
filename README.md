@@ -18,3 +18,5 @@ Short summary on how to contribute to the project using github and gerrithub:
 * Use the repo tool.
 
 A longer explaination is in <https://github.com/argouml-tigris-org/argouml/wiki/Working-in-the-project>
+
+## Eliminating Technical Debt

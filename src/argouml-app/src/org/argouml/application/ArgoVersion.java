@@ -72,4 +72,5 @@ final class ArgoVersion {
      */
     private ArgoVersion() {
     }
+ 
 }

@@ -64,7 +64,7 @@ final class ArgoVersion {
      * Make the version of ArgoUML public. 
      */
     static void init() {
-        ApplicationVersion.init(VERSION, STABLE_VERSION);
+        ApplicationVersion_.init(VERSION, STABLE_VERSION);
     }
 
     /**
